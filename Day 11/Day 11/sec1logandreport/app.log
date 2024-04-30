@@ -1,0 +1,85 @@
+2024-04-29 10:22:41 INFO  Spencer:49 - open URL
+  2024-04-29 10:22:47 INFO  Spencer:55 - search-chocolate
+  2024-04-29 10:22:48 INFO  Spencer:61 - Dairy prod
+  2024-04-29 10:22:53 WARN  Spencer:63 - Wait for  sec
+  2024-04-29 10:22:53 INFO  Spencer:65 - Add cart
+  2024-04-29 10:22:56 INFO  Spencer:70 - Testcase 1 terminated
+  2024-04-29 11:17:57 INFO  Spencer:71 - open URL
+  2024-04-29 11:18:04 INFO  Spencer:77 - search-chocolate
+  2024-04-29 11:18:04 INFO  Spencer:83 - Dairy prod
+  2024-04-29 11:18:09 WARN  Spencer:85 - Wait for  5 sec
+  2024-04-29 11:18:09 INFO  Spencer:87 - Add cart
+  2024-04-29 11:18:12 WARN  Spencer:90 - Wait for  3 sec
+  2024-04-29 11:18:12 INFO  Spencer:93 - Testcase 1 terminated
+  2024-04-29 11:18:17 INFO  Spencer:113 - open URL
+  2024-04-29 11:18:17 INFO  Spencer:118 - Groceries & Staples
+  2024-04-29 11:18:21 INFO  Spencer:120 - view all
+  2024-04-29 11:18:21 INFO  Spencer:122 - edible oil
+  2024-04-29 11:18:26 WARN  Spencer:124 - Wait for  5 sec
+  2024-04-29 11:18:26 INFO  Spencer:127 - Testcase 2 terminated
+  2024-04-29 11:18:31 INFO  Spencer:145 - open URL
+  2024-04-29 11:18:32 INFO  Spencer:149 - Profile
+  2024-04-29 11:18:32 WARN  Spencer:153 - Wait for  20 sec
+  2024-04-29 11:18:32 INFO  Spencer:155 - Log in
+  2024-04-29 11:18:33 INFO  Spencer:164 - email
+  2024-04-29 11:18:33 INFO  Spencer:169 - pass
+  2024-04-29 11:26:13 INFO  Spencer:69 - open URL
+  2024-04-29 11:26:20 INFO  Spencer:75 - search-chocolate
+  2024-04-29 11:26:20 INFO  Spencer:81 - Dairy prod
+  2024-04-29 11:26:25 WARN  Spencer:83 - Wait for  5 sec
+  2024-04-29 11:26:25 INFO  Spencer:85 - Add cart
+  2024-04-29 11:26:28 WARN  Spencer:88 - Wait for  3 sec
+  2024-04-29 11:26:28 INFO  Spencer:91 - Testcase 1 terminated
+  2024-04-29 11:26:34 INFO  Spencer:111 - open URL
+  2024-04-29 11:26:34 INFO  Spencer:116 - Groceries & Staples
+  2024-04-29 11:26:36 INFO  Spencer:118 - view all
+  2024-04-29 11:26:40 INFO  Spencer:120 - edible oil
+  2024-04-29 11:26:45 WARN  Spencer:122 - Wait for  5 sec
+  2024-04-29 11:26:45 INFO  Spencer:125 - Testcase 2 terminated
+  2024-04-29 11:26:49 INFO  Spencer:143 - open URL
+  2024-04-29 11:26:49 INFO  Spencer:147 - Profile
+  2024-04-29 11:26:50 WARN  Spencer:151 - Wait for  20 sec
+  2024-04-29 11:26:50 INFO  Spencer:153 - Log in
+  2024-04-29 11:26:51 INFO  Spencer:162 - email
+  2024-04-29 11:26:51 INFO  Spencer:167 - pass
+  2024-04-29 11:40:28 INFO  Spencer:69 - open URL
+  2024-04-29 11:40:29 INFO  Spencer:75 - search-chocolate
+  2024-04-29 11:40:34 INFO  Spencer:81 - Dairy prod
+  2024-04-29 11:40:39 WARN  Spencer:83 - Wait for  5 sec
+  2024-04-29 11:40:39 INFO  Spencer:85 - Add cart
+  2024-04-29 11:40:42 WARN  Spencer:88 - Wait for  3 sec
+  2024-04-29 11:40:42 INFO  Spencer:91 - Testcase 1 terminated
+  2024-04-29 11:40:48 INFO  Spencer:111 - open URL
+  2024-04-29 11:40:48 INFO  Spencer:116 - Groceries & Staples
+  2024-04-29 11:40:53 INFO  Spencer:118 - view all
+  2024-04-29 11:40:53 INFO  Spencer:120 - edible oil
+  2024-04-29 11:40:58 WARN  Spencer:122 - Wait for  5 sec
+  2024-04-29 11:40:58 INFO  Spencer:125 - Testcase 2 terminated
+  2024-04-29 11:41:03 INFO  Spencer:143 - open URL
+  2024-04-29 11:41:03 INFO  Spencer:147 - Profile
+  2024-04-29 11:41:04 WARN  Spencer:151 - Wait for  20 sec
+  2024-04-29 11:41:04 INFO  Spencer:153 - Log in
+  2024-04-29 11:41:04 INFO  Spencer:162 - email
+  2024-04-29 11:41:04 INFO  Spencer:167 - pass
+  2024-04-29 11:41:07 INFO  Spencer:175 - Testcase 3 terminated
+  2024-04-29 12:39:46 INFO  Spencer:65 - open URL
+  2024-04-29 12:39:52 INFO  Spencer:71 - search-chocolate
+  2024-04-29 12:39:52 INFO  Spencer:77 - Dairy prod
+  2024-04-29 12:39:57 WARN  Spencer:79 - Wait for  5 sec
+  2024-04-29 12:39:58 INFO  Spencer:81 - Add cart
+  2024-04-29 12:40:01 WARN  Spencer:84 - Wait for  3 sec
+  2024-04-29 12:40:01 INFO  Spencer:87 - Testcase 1 terminated
+  2024-04-29 12:40:07 INFO  Spencer:107 - open URL
+  2024-04-29 12:40:07 INFO  Spencer:112 - Groceries & Staples
+  2024-04-29 12:40:09 INFO  Spencer:114 - view all
+  2024-04-29 12:40:12 INFO  Spencer:116 - edible oil
+  2024-04-29 12:40:17 WARN  Spencer:118 - Wait for  5 sec
+  2024-04-29 12:40:17 INFO  Spencer:121 - Testcase 2 terminated
+  2024-04-29 12:40:21 INFO  Spencer:139 - open URL
+  2024-04-29 12:40:21 INFO  Spencer:143 - Profile
+  2024-04-29 12:40:22 WARN  Spencer:147 - Wait for  20 sec
+  2024-04-29 12:40:22 INFO  Spencer:149 - Log in
+  2024-04-29 12:40:22 INFO  Spencer:158 - email
+  2024-04-29 12:40:22 INFO  Spencer:163 - pass
+  2024-04-29 12:40:26 INFO  Spencer:171 - Testcase 3 terminated
+  
