@@ -1,0 +1,12 @@
+2024-04-26 10:22:12 INFO  Opentable:34 - open url
+  2024-04-26 14:21:11 INFO  Opentable:37 - open url
+  2024-04-26 14:21:14 INFO  Opentable:39 - Wait for 3 sec
+  2024-04-26 14:29:03 INFO  Opentable:41 - open url
+  2024-04-26 14:29:06 WARN  Opentable:43 - Wait for 3 sec
+  2024-04-26 14:29:08 INFO  Opentable:46 - select Bangalore
+  2024-04-26 14:29:11 WARN  Opentable:51 - Wait for 3 sec
+  2024-04-26 14:29:15 INFO  Opentable:64 - selected 4 people
+  2024-04-26 14:29:15 INFO  Opentable:72 - Selected November
+  2024-04-26 14:29:19 INFO  Opentable:82 - Screenshot taken
+  2024-04-26 14:29:19 INFO  Opentable:83 - Terminated
+  
